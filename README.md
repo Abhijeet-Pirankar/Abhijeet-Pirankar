@@ -1,5 +1,10 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Second+Year+CSE+Student;Python+Developer;Learning+DSA+%26+Machine+Learning;Welcome+to+My+GitHub!"/>
+<h1 align="center">Hi 👋, I'm Abhijeet Pirankar</h1>
 
+<h3 align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Second+Year+CSE+Student;Python+Developer;Cybersecurity+Learner;Linux+Enthusiast;Networking+%26+Ethical+Hacking+Explorer;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+  </a>
+</h3>
 </div>
 
 </div>
