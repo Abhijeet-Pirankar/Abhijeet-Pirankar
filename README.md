@@ -1,4 +1,7 @@
-# 💫 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Second+Year+CSE+Student;Aspiring+AI%2FML+Engineer;Python+Developer;Learning+DSA+%26+Machine+Learning;Welcome+to+My+GitHub!"/>
+
+</div>
+
 <br><br>- 🎓 Computer Science Engineering Student<br>- 🐧 Linux Enthusiast<br>- 🔐 Cybersecurity Learner<br>- 🌐 Networking & Ethical Hacking Explorer<br>- 💻 Python Developer<br>- 🛠️ Building projects and documenting my learning journey<br>- 🎯 Focused on practical skills and continuous improvement<br>- 🚀 Always curious, always learning<br><br>> **Turning curiosity into skills, one project at a time.**
 
 
