@@ -9,7 +9,7 @@
 
 </div>
 
-<br><br>- 🎓 Computer Science Engineering Student<br>- 🐧 Linux Enthusiast<br>- 🔐 Cybersecurity Learner<br>- 🌐 Networking & Ethical Hacking Explorer<br>- 💻 Python Developer<br>- 🛠️ Building projects and documenting my learning journey<br>- 🎯 Focused on practical skills and continuous improvement<br>- 🚀 Always curious, always learning<br><br>> **Turning curiosity into skills, one project at a time.**
+<H3><br><br>- 🎓 Computer Science Engineering Student<br>- 🐧 Linux Enthusiast<br>- 🔐 Cybersecurity Learner<br>- 🌐 Networking & Ethical Hacking Explorer<br>- 💻 Python Developer<br>- 🛠️ Building projects and documenting my learning journey<br>- 🎯 Focused on practical skills and continuous improvement<br>- 🚀 Always curious, always learning<br><br>> **Turning curiosity into skills, one project at a time.**</H3>
 
 
 ## 🌐 Socials:
