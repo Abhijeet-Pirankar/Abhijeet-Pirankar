@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhijeet Pirankar</h1>
+<h1 align="center">Hi 👋, I'm Abhijeet Pirankar</h1><img src="https://gifdb.com/images/high/panda-waving-cartoon-sticker-pi4qfklzce0s7zo5.gif" hspace="10" alt="Panda Waving" align="right" width="150" />
 
 <h3 align="center">
   <a href="https://readme-typing-svg.demolab.com">
