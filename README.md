@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Pirankar</h1><img src="https://gifdb.com/images/high/panda-waving-cartoon-sticker-pi4qfklzce0s7zo5.gif" hspace="10" alt="Panda Waving" align="right" width="150" />
 
-<h3 align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&color=00C853&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile;Second+Year+CSE+Student;Python+Developer;Cybersecurity+Learner;Linux+Enthusiast;Networking+%26+Ethical+Hacking+Explorer;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
-  </a>
-</h3>
-</div>
-
-</div>
 
 <H3><br><br>- 🎓 Computer Science Engineering Student<br>- 🐧 Linux Enthusiast<br>- 🔐 Cybersecurity Learner<br>- 🌐 Networking & Ethical Hacking Explorer<br>- 💻 Python Developer<br>- 🛠️ Building projects and documenting my learning journey<br>- 🎯 Focused on practical skills and continuous improvement<br>- 🚀 Always curious, always learning<br><br>> **Turning curiosity into skills, one project at a time.**</H3>
 
