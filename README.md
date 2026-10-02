@@ -28,3 +28,10 @@
 [![](https://komarev.com/ghpvc/?username=Abhijeet-Pirankar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=mihirbalam35-afk&style=for-the-badge&color=blueviolet)
+
+---
+
+<div align="center">
