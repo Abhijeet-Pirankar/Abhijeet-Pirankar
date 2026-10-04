@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Pirankar</h1><img src="https://gifdb.com/images/high/panda-waving-cartoon-sticker-pi4qfklzce0s7zo5.gif" hspace="10" alt="Panda Waving" align="right" width="150" />
 
-
 <H3><br><br>- 🎓 Computer Science Engineering Student<br>- 🐧 Linux Enthusiast<br>- 🔐 Cybersecurity Learner<br>- 🌐 Networking & Ethical Hacking Explorer<br>- 💻 Python Developer<br>- 🛠️ Building projects and documenting my learning journey<br>- 🎯 Focused on practical skills and continuous improvement<br>- 🚀 Always curious, always learning<br><br>> **Turning curiosity into skills, one project at a time.**</H3>
 
 
@@ -65,6 +64,7 @@ Python automation tool that automatically organizes files into folders based on 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhijeet-Pirankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 # 👀 Profile Views
 ![](https://komarev.com/ghpvc/?username=Abhijeet-Pirankar&style=for-the-badge&color=blueviolet)
 
