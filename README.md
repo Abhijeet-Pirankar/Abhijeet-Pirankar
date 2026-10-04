@@ -26,6 +26,33 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 🔐 PARAKH — AI-Powered Security Shield
+AI-assisted cybersecurity platform focused on threat detection and security awareness.
+
+**Tech:** Python • AI • Cybersecurity • Web Development
+
+🔗 [View Project](https://github.com/Abhijeet-Pirankar/PARAKH.git)
+
+---
+
+### 🎨 Air Canvas
+Computer-vision project that allows users to draw in the air using hand tracking.
+
+**Tech:** Python • OpenCV • MediaPipe
+
+🔗 [View Project](https://github.com/Abhijeet-Pirankar/Air_Canavas.git)
+
+---
+
+### 📁 File Organizer
+Python automation tool that automatically organizes files into folders based on file type.
+
+**Tech:** Python • Automation
+
+🔗 [View Project](https://github.com/Abhijeet-Pirankar/file-organizer-python.git)
 <!-- Snake Game Repo View -->
 
 <div align="center">
