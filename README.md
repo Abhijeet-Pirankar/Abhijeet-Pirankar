@@ -61,7 +61,7 @@ Python automation tool that automatically organizes files into folders based on 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Abhijeet-Pirankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Abhijeet-Pirankar&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Abhijeet-Pirankar&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhijeet-Pirankar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
