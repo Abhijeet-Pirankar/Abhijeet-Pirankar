@@ -28,30 +28,64 @@
 
 ## 🚀 Featured Projects
 
-### 🔐 PARAKH — AI-Powered Security Shield
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔐 PARAKH</h3>
+<p><b>AI-Powered Security Shield</b></p>
+
 AI-assisted cybersecurity platform focused on threat detection and security awareness.
 
-**Tech:** Python • AI • Cybersecurity • Web Development
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Cybersecurity-DC2626?style=flat-square" />
+</p>
 
-🔗 [View Project](https://github.com/Abhijeet-Pirankar/PARAKH.git)
+<a href="https://github.com/Abhijeet-Pirankar/PARAKH">🔗 Explore Repository →</a>
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🎨 Air Canvas
-Computer-vision project that allows users to draw in the air using hand tracking.
+<h3>🎨 Air Canvas</h3>
+<p><b>Real-Time Hand Tracking</b></p>
 
-**Tech:** Python • OpenCV • MediaPipe
+Computer-vision application that lets users draw in the air using hand-tracking technology.
 
-🔗 [View Project](https://github.com/Abhijeet-Pirankar/Air_Canavas.git)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
+</p>
 
----
+<a href="https://github.com/Abhijeet-Pirankar/Air_Canavas">🔗 Explore Repository →</a>
 
-### 📁 File Organizer
-Python automation tool that automatically organizes files into folders based on file type.
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-**Tech:** Python • Automation
+<h3>📁 File Organizer</h3>
+<p><b>Smart File Management Automation</b></p>
 
-🔗 [View Project](https://github.com/Abhijeet-Pirankar/file-organizer-python.git)
+Python utility that automatically sorts files into organized folders based on file type.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-059669?style=flat-square" />
+<img src="https://img.shields.io/badge/File_Handling-64748B?style=flat-square" />
+</p>
+
+<a href="https://github.com/Abhijeet-Pirankar/file-organizer-python">🔗 Explore Repository →</a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>Building practical projects at the intersection of software development and cybersecurity.</i>
+</p>
 <!-- Snake Game Repo View -->
 
 <div align="center">
